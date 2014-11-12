@@ -1,4 +1,4 @@
-cmpe273-lab3
+cmpe273-lab6
 ============
 
-CMPE-Lab3 submission
+CMPE 273 Lab 6 Baseline
